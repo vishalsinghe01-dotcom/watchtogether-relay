@@ -1,0 +1,8 @@
+{
+  "name": "watchparty-server",
+  "version": "1.0.0",
+  "description": "Tiny signaling + sync relay for the CloudStream WatchTogether module (max 3 per room)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
